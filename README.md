@@ -1,3 +1,8 @@
+**This is from a udacity class class on Javascript Basics**
+
+**Saved here for reference purposes only**
+
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
